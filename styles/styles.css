@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.heading-text{
+    font-family:  Playfair Display;
+}
+.body-text{
+    font-family:  Roboto ;
+    color: #333;
+    background-color: #f9f9f9;
+}
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    
+    
+}
+
+header .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+}
+
+.nav-link {
+    color: #333;
+    margin-right: 15px;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+/* Basket Items */
+.basket-item {
+    border: none;
+    border-radius: 8px;
+}
+
+.basket-item img {
+    width: 80px;
+    height: 80px;
+    border-radius: 8px;
+}
+
+.item-name {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.item-price {
+    font-size: 0.9rem;
+}
+
+/* Order Summary */
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.btn-success {
+    background-color: #0b521b;
+    border: none;
+}
+
