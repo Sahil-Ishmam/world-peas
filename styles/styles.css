@@ -32,9 +32,8 @@ header .logo {
 }
 
 
-/* Basket Items */
 .basket-item {
-    border: none;
+    
     border-radius: 8px;
 }
 
